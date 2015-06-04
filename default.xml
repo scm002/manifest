@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
-        <remote name="origin"  fetch="https://github.com/scm002" review="review.source.android.com" />
+        <remote name="origin"  fetch="https://github.com/scm002" review="cnbjlx11099.corpusers.net:8081" />
         <default revision="master" remote="origin" />
         <project path="project1" name="project1" />
 </manifest>
